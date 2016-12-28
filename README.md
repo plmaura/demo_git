@@ -1,2 +1,3 @@
 # demo_git
-une demo de GIT 
+une demo de GIT
+quelques commentaires en plus
