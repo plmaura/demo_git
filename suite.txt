@@ -3,3 +3,4 @@ git add
 git commit -m "un message"
 git status
 je vais faire  un git push origin master
+>Et maintnant git pull origin master
