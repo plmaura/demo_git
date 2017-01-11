@@ -1,0 +1,4 @@
+git status
+git add
+git commit
+je vais faire un git push origin master
